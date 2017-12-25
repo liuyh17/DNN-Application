@@ -7,7 +7,7 @@ Deep Neural Network for Image Classification: Application
 ## Two-layer neural network 
 ### Architecture  
 <div  align="center">
-<img src="http://p153fvp85.bkt.clouddn.com/2layerNN_kiank.png" style="width:600px;height:400px;">
+<img src="http://p153fvp85.bkt.clouddn.com/2layerNN_kiank.png" style="width:500px;height:300px;">
 </div>  
 
 ### Helper Functions   
