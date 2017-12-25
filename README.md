@@ -4,11 +4,7 @@ Deep Neural Network for Image Classification: Application
 *Helper functions as flows:*  
 *[Building deep neural network step by step](http://yuehua.me/deep%20learning/2017/12/21/Building-your-Deep-Neural-Network-Step-by-Step/)*
 
-## Two-layer neural network 
-### Architecture  
-<div  align="center">
-<img src="http://p153fvp85.bkt.clouddn.com/2layerNN_kiank.png" style="width:500px;height:300px;">
-</div>  
+## Two-layer neural network   
 
 ### Helper Functions   
 ```python
@@ -35,11 +31,7 @@ def update_parameters(parameters, grads, learning_rate):
 </div>  
 
 
-## L-layer Neural Network  
-### Architecture  
-<div  align="center">
-<img src="http://p153fvp85.bkt.clouddn.com/LlayerNN_kiank.png" style="width:600px;height:400px;">
-</div>  
+## L-layer Neural Network   
 
 ### Helper Functions   
 ```python
