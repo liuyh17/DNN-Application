@@ -9,4 +9,4 @@ pred_test = predict(test_x, test_y, parameters)
 
 #Results Analysis
 print("Results Analysis:")
-print_mislabeled_images(classes, test_x, test_y, pred_test)
+print_mislabeled_images(classes, test_x, test_y, pred_test) 
